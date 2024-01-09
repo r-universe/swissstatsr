@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/swissstatsr/swissstatsr.r-universe.dev
 	branch = HEAD
+[submodule "BFS"]
+	path = BFS
+	url = https://github.com/lgnbhl/BFS
+[submodule "distrr"]
+	path = distrr
+	url = https://github.com/gibonet/distrr
