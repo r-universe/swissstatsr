@@ -8,3 +8,6 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
+[submodule "impexpcsv"]
+	path = impexpcsv
+	url = https://gitlab.com/gibonet/impexpcsv
