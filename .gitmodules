@@ -11,3 +11,6 @@
 [submodule "impexpcsv"]
 	path = impexpcsv
 	url = https://gitlab.com/gibonet/impexpcsv
+[submodule "testrepo"]
+	path = testrepo
+	url = https://github.com/SwissStatsR/testrepo
