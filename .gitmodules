@@ -11,12 +11,6 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
-[submodule "impexpcsv"]
-	path = impexpcsv
-	url = https://gitlab.com/gibonet/impexpcsv
 [submodule "sgtourism"]
 	path = sgtourism
 	url = https://github.com/statistikSG/sgtourism
-[submodule "testrepo"]
-	path = testrepo
-	url = https://github.com/SwissStatsR/testrepo
