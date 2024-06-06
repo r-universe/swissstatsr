@@ -11,6 +11,10 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
+[submodule "ghactions"]
+	path = ghactions
+	url = https://github.com/r-lib/ghactions
+	registered = false
 [submodule "ghactionsOGD"]
 	path = ghactionsOGD
 	url = https://github.com/ogdtg/ghactionsOGD
@@ -20,3 +24,7 @@
 [submodule "sgtourism"]
 	path = sgtourism
 	url = https://github.com/statistikSG/sgtourism
+[submodule "tic"]
+	path = tic
+	url = https://github.com/ropensci/tic
+	registered = false

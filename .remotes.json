@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ghactions",
+    "url": "https://github.com/r-lib/ghactions",
+    "via": ["ghactionsOGD"],
+    "from": "ghactionsOGD"
+  },
+  {
+    "package": "tic",
+    "url": "https://github.com/ropensci/tic",
+    "via": ["ghactionsOGD"],
+    "from": "ghactionsOGD"
+  }
+]
