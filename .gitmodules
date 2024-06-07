@@ -11,6 +11,9 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
+[submodule "ghactionsOGD"]
+	path = ghactionsOGD
+	url = https://github.com/ogdtg/ghactionsOGD
 [submodule "impexpcsv"]
 	path = impexpcsv
 	url = https://github.com/SwissStatsR/impexpcsv
