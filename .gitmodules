@@ -21,6 +21,9 @@
 [submodule "impexpcsv"]
 	path = impexpcsv
 	url = https://github.com/SwissStatsR/impexpcsv
+[submodule "noga"]
+	path = noga
+	url = https://github.com/SwissStatsR/noga
 [submodule "sgtourism"]
 	path = sgtourism
 	url = https://github.com/statistikSG/sgtourism
