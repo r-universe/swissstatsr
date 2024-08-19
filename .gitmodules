@@ -8,6 +8,9 @@
 [submodule "SpiGesXML"]
 	path = SpiGesXML
 	url = https://github.com/SwissStatsR/SpiGesXML
+[submodule "dcatapchr"]
+	path = dcatapchr
+	url = https://github.com/SwissStatsR/dcatapchr
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
