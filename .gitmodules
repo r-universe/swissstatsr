@@ -27,6 +27,12 @@
 [submodule "noga"]
 	path = noga
 	url = https://github.com/SwissStatsR/noga
+[submodule "propop"]
+	path = propop
+	url = https://github.com/statistik-aargau/propop
+[submodule "seasonal"]
+	path = seasonal
+	url = https://github.com/christophsax/seasonal
 [submodule "sgtourism"]
 	path = sgtourism
 	url = https://github.com/statistikSG/sgtourism
