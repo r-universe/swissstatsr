@@ -32,3 +32,6 @@
 [submodule "sgtourism"]
 	path = sgtourism
 	url = https://github.com/statistikSG/sgtourism
+[submodule "submit"]
+	path = submit
+	url = https://github.com/SwissStatsR/submit
