@@ -14,6 +14,9 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
+[submodule "eneRgyVD"]
+	path = eneRgyVD
+	url = https://github.com/mick-weber/eneRgyVD
 [submodule "ghactionsOGD"]
 	path = ghactionsOGD
 	url = https://github.com/ogdtg/ghactionsOGD
