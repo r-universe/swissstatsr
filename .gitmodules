@@ -38,3 +38,6 @@
 [submodule "submit"]
 	path = submit
 	url = https://github.com/SwissStatsR/submit
+[submodule "zueritheme"]
+	path = zueritheme
+	url = https://github.com/StatistikStadtZuerich/zueritheme
