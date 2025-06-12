@@ -38,6 +38,15 @@
 [submodule "submit"]
 	path = submit
 	url = https://github.com/SwissStatsR/submit
+[submodule "zuericolors"]
+	path = zuericolors
+	url = https://github.com/StatistikStadtZuerich/zuericolors
+[submodule "zueriplots"]
+	path = zueriplots
+	url = https://github.com/StatistikStadtZuerich/zueriplots
 [submodule "zueritheme"]
 	path = zueritheme
 	url = https://github.com/StatistikStadtZuerich/zueritheme
+[submodule "zueriverse"]
+	path = zueriverse
+	url = https://github.com/StatistikStadtZuerich/zueriverse
