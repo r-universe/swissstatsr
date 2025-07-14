@@ -5,6 +5,9 @@
 [submodule "BFS"]
 	path = BFS
 	url = https://github.com/lgnbhl/BFS
+[submodule "I14Y"]
+	path = I14Y
+	url = https://github.com/lgnbhl/I14Y
 [submodule "SpiGesXML"]
 	path = SpiGesXML
 	url = https://github.com/SwissStatsR/SpiGesXML
