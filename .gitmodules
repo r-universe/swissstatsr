@@ -43,6 +43,9 @@
 [submodule "propop"]
 	path = propop
 	url = https://github.com/statistik-aargau/propop
+[submodule "propopbirth"]
+	path = propopbirth
+	url = https://github.com/statistik-aargau/propopbirth
 [submodule "seasonal"]
 	path = seasonal
 	url = https://github.com/christophsax/seasonal
