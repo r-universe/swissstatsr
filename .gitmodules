@@ -20,20 +20,12 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/gibonet/distrr
-[submodule "dqshiny"]
-	path = dqshiny
-	url = https://github.com/daqana/dqshiny
-	registered = false
 [submodule "eneRgyVD"]
 	path = eneRgyVD
 	url = https://github.com/mick-weber/eneRgyVD
 [submodule "ghactionsOGD"]
 	path = ghactionsOGD
 	url = https://github.com/ogdtg/ghactionsOGD
-[submodule "icons"]
-	path = icons
-	url = https://github.com/mitchelloharawild/icons
-	registered = false
 [submodule "impexpcsv"]
 	path = impexpcsv
 	url = https://github.com/SwissStatsR/impexpcsv
